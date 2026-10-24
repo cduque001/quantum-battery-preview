@@ -1,7 +1,7 @@
-# Quantum battery — two animation styles
+# Could a quantum computer help your phone last longer?
 
-Mobile comparison of the first two scenes of a quantum-computing explainer. Each version is 26.2 seconds with the same draft narration, captions and music.
+[Watch the full video](https://cduque001.github.io/quantum-battery-preview/)
 
-[Open the preview](https://cduque001.github.io/quantum-battery-preview/)
+An 86-second educational preview in the selected illustrated science-workbench style: phone, battery materials, hydrogen, a hybrid calculation, the energy curve, and the possible path back to a better battery. Includes draft narration, music, captions, chapter navigation and the original two opening comparisons.
 
-A: Illustrated laboratory. B: Retro desktop. Original generated phone artwork and authored schematic diagrams. Fonts are included with their OFL licenses.
+Original generated phone artwork and authored schematic diagrams. The energy curve is a qualitative illustration. Fonts are included with their OFL licenses.
